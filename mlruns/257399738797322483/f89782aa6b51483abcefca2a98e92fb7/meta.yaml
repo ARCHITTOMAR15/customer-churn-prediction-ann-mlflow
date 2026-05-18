@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Lenovo/Desktop/github projects/Assingment_ANN_CNN/customer
+  churn/mlruns/257399738797322483/f89782aa6b51483abcefca2a98e92fb7/artifacts
+end_time: 1779085399550
+entry_point_name: ''
+experiment_id: '257399738797322483'
+lifecycle_stage: active
+run_id: f89782aa6b51483abcefca2a98e92fb7
+run_name: welcoming-trout-612
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779085348706
+status: 3
+tags: []
+user_id: Lenovo

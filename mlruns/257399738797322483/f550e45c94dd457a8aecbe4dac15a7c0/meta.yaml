@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Lenovo/Desktop/github projects/Assingment_ANN_CNN/customer
+  churn/mlruns/257399738797322483/f550e45c94dd457a8aecbe4dac15a7c0/artifacts
+end_time: 1779075706838
+entry_point_name: ''
+experiment_id: '257399738797322483'
+lifecycle_stage: active
+run_id: f550e45c94dd457a8aecbe4dac15a7c0
+run_name: capable-fly-581
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779075631540
+status: 3
+tags: []
+user_id: Lenovo

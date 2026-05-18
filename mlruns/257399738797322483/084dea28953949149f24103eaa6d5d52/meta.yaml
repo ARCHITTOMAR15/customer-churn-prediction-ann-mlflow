@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Lenovo/Desktop/github projects/Assingment_ANN_CNN/customer
+  churn/mlruns/257399738797322483/084dea28953949149f24103eaa6d5d52/artifacts
+end_time: 1779085702961
+entry_point_name: ''
+experiment_id: '257399738797322483'
+lifecycle_stage: active
+run_id: 084dea28953949149f24103eaa6d5d52
+run_name: unique-wasp-910
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779085653520
+status: 3
+tags: []
+user_id: Lenovo

@@ -1,0 +1,10 @@
+digest: 4c5140aa
+name: dataset
+profile: '{"features_shape": [9216, 10], "features_size": 92160, "features_nbytes":
+  737280, "targets_shape": [9216], "targets_size": 9216, "targets_nbytes": 73728}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float64\", \"shape\": [-1, 10]}}]", "targets": "[{\"type\": \"tensor\",
+  \"tensor-spec\": {\"dtype\": \"int64\", \"shape\": [-1]}}]"}}'
+source: '{"tags": {"mlflow.user": "Lenovo", "mlflow.source.name": "customer churn.ipynb",
+  "mlflow.source.type": "NOTEBOOK"}}'
+source_type: code

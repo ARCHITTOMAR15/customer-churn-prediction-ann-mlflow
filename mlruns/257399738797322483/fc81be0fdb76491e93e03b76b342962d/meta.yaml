@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Lenovo/Desktop/github projects/Assingment_ANN_CNN/customer
+  churn/mlruns/257399738797322483/fc81be0fdb76491e93e03b76b342962d/artifacts
+end_time: 1779083310968
+entry_point_name: ''
+experiment_id: '257399738797322483'
+lifecycle_stage: active
+run_id: fc81be0fdb76491e93e03b76b342962d
+run_name: invincible-bat-457
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779083246329
+status: 3
+tags: []
+user_id: Lenovo

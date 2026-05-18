@@ -1,0 +1,11 @@
+artifact_location: file:///C:/Users/Lenovo/Desktop/github projects/Assingment_ANN_CNN/customer
+  churn/mlruns/257399738797322483/models/m-aa1eb83053c6489891b5c5e86c5a90a5/artifacts
+creation_timestamp: 1779085703866
+experiment_id: '257399738797322483'
+last_updated_timestamp: 1779085733554
+model_id: m-aa1eb83053c6489891b5c5e86c5a90a5
+model_type: null
+name: model
+source_run_id: 7b175d39afb94332ab57efef1e40d243
+status: 2
+status_message: null

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Lenovo/Desktop/github projects/Assingment_ANN_CNN/customer
+  churn/mlruns/257399738797322483/b3873b8711594ca6b56698dcf2697ba2/artifacts
+end_time: 1779083988660
+entry_point_name: ''
+experiment_id: '257399738797322483'
+lifecycle_stage: active
+run_id: b3873b8711594ca6b56698dcf2697ba2
+run_name: redolent-gnu-61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779083936798
+status: 3
+tags: []
+user_id: Lenovo

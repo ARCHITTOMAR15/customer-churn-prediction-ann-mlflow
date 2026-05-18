@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Lenovo/Desktop/github projects/Assingment_ANN_CNN/customer
+  churn/mlruns/257399738797322483/188a7fa186f7424ab15c1341231b169e/artifacts
+end_time: 1778912681845
+entry_point_name: ''
+experiment_id: '257399738797322483'
+lifecycle_stage: active
+run_id: 188a7fa186f7424ab15c1341231b169e
+run_name: rare-fly-427
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778912636693
+status: 3
+tags: []
+user_id: Lenovo

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Lenovo/Desktop/github projects/Assingment_ANN_CNN/customer
+  churn/mlruns/257399738797322483/bf0cfcc2515048f78f8206d8e73fb599/artifacts
+end_time: 1778913116677
+entry_point_name: ''
+experiment_id: '257399738797322483'
+lifecycle_stage: active
+run_id: bf0cfcc2515048f78f8206d8e73fb599
+run_name: angry-fish-663
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778913063165
+status: 3
+tags: []
+user_id: Lenovo

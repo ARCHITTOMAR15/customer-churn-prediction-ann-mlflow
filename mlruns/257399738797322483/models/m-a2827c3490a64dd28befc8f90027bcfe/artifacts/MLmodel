@@ -1,0 +1,30 @@
+artifact_path: file:///C:/Users/Lenovo/Desktop/github projects/Assingment_ANN_CNN/customer
+  churn/mlruns/257399738797322483/models/m-a2827c3490a64dd28befc8f90027bcfe/artifacts
+flavors:
+  python_function:
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.tensorflow
+    python_version: 3.12.0
+  tensorflow:
+    code: null
+    data: data
+    keras_version: 2.21.0
+    model_type: keras
+    save_format: tf
+is_signature_from_type_hint: false
+mlflow_version: 3.12.0
+model_id: m-a2827c3490a64dd28befc8f90027bcfe
+model_size_bytes: 35857
+model_uuid: m-a2827c3490a64dd28befc8f90027bcfe
+prompts: null
+run_id: 44579708e58649d5a42cac00d5d480dd
+signature:
+  inputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1, 10]}}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float32", "shape": [-1,
+    1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2026-05-17 03:32:13.823520'
