@@ -1,9 +1,0 @@
-artifact_location: file:///C:/Users/Lenovo/Desktop/github projects/Assingment_ANN_CNN/customer
-  churn/mlruns/257399738797322483
-creation_time: 1778826789701
-experiment_id: '257399738797322483'
-last_update_time: 1778826789701
-lifecycle_stage: active
-name: ANN_Project
-trace_location: null
-workspace: default
