@@ -1,6 +1,6 @@
-# Customer Churn Prediction using ANN with MLflow & Keras Tuner
+ # Customer Churn Prediction using ANN with MLflow & Keras Tuner
 
-## 📌 Project Overview
+ ## Project Overview
 
 This project focuses on predicting customer churn using an Artificial Neural Network (ANN) built with TensorFlow/Keras. The workflow includes data preprocessing, feature engineering, ANN model training, hyperparameter tuning using Keras Tuner, and experiment tracking with MLflow.
 
@@ -8,7 +8,7 @@ The objective is to identify customers who are likely to leave a bank based on d
 
 ---
 
-# 🚀 Features
+ # Features
 
 * Data preprocessing and feature engineering
 * Artificial Neural Network (ANN) implementation
@@ -20,7 +20,7 @@ The objective is to identify customers who are likely to leave a bank based on d
 
 ---
 
-# 🛠️ Tech Stack
+ # Tech Stack
 
 * Python
 * TensorFlow / Keras
@@ -33,7 +33,7 @@ The objective is to identify customers who are likely to leave a bank based on d
 * Keras Tuner
 * Jupyter Notebook
 
-# 📊 Dataset Information
+# Dataset Information
 
 The dataset contains customer banking information such as:
 
@@ -53,9 +53,9 @@ Target Variable:
 
 ---
 
-# ⚙️ Workflow
+# Workflow
 
-## 1. Data Preprocessing
+ ## 1. Data Preprocessing
 
 * Handling categorical variables
 * Feature encoding
@@ -94,7 +94,7 @@ Target Variable:
 
 ---
 
-# 📈 Model Performance
+ # Model Performance
 
 Add your final model accuracy and evaluation results here.
 
@@ -102,13 +102,13 @@ Add your final model accuracy and evaluation results here.
 * Validation Accuracy: Yet to determine working for improvement
 * Test Accuracy:Yet to determine working for improvement
 
-# 📌 Future Improvements
+# Future Improvements
 
 * Deploy using Streamlit
 * Add Docker support
 * Try advanced Deep Learning architectures
   
-# 👨‍💻 Author
+# Author
 
 Archit Tomar
 
